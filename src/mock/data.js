@@ -9,9 +9,9 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
+  title: 'Hello, my name is',
+  name: 'Rebecca Ellinson',
+  subtitle: 'I am a software developer',
   cta: '',
 };
 
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'rebeccaellinson"gmail.com',
 };
 
 // FOOTER DATA
